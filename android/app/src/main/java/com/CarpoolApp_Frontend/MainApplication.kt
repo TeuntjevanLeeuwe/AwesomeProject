@@ -1,4 +1,4 @@
-package com.awesomeproject
+package com.CarpoolApp_Frontend
 
 import android.app.Application
 import com.facebook.react.PackageList
